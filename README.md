@@ -1,4 +1,4 @@
-# Deep-learning-MNIST-datset
+# Deep-learning-MNIST-dataset
 A comparison between four algorithms to detect greyscale images of digits.
 
 Requirements :
